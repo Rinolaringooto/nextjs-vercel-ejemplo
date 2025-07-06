@@ -1,1 +1,15 @@
-
+{
+  "name": "nextjs-vercel-ejemplo",
+  "version": "1.0.0",
+  "description": "Ejemplo básico de Next.js listo para desplegar en Vercel.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
